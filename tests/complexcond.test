@@ -1,0 +1,9 @@
+print_string("Entrez un nombre: ");
+var n = scani;
+if (n > 0) {
+    print_string("Nombre positif");
+    return 1;
+} else {
+    print_string("Nombre negatif ou nul");
+    return 0;
+}

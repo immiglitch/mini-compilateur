@@ -1,0 +1,11 @@
+// test1 doit afficher 1
+printb(true);
+return 0;
+
+// test2 doit afficher 0
+// printb(false);
+// return 0;
+
+// test3 doit afficher 1
+// printb(not false);
+// return 0;

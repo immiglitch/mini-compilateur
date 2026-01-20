@@ -1,0 +1,5 @@
+print_string("ecris un mot: ");
+var s = gets;
+print_string("tu as ecrit: ");
+print_string(s);
+return 0;

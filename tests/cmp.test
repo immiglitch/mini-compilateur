@@ -1,0 +1,7 @@
+//test1 doit afficher true
+printb (1 < 2);
+return 0;
+
+//test2 doit afficher false
+//printb ((1 + 2) == 4);
+//return 0;

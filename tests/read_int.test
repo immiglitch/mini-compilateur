@@ -1,0 +1,5 @@
+// Lecture d'un entier
+print_string("Nombre: ");
+var n = scani; 
+print_string("Valeur lue: ");
+printi(n);

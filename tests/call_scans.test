@@ -1,0 +1,9 @@
+// Test de la saisie de texte 
+print_string("Entrez votre nom: ");
+
+var nom = scans; 
+
+print_string("Bonjour ");
+print_string(nom);
+
+return 0;

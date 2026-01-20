@@ -1,0 +1,5 @@
+// not test
+var a = false;
+
+printb(not a);
+return 0;

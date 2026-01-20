@@ -1,0 +1,7 @@
+// print bool
+var b1 = true;
+var b2 = false;
+printb b1;
+printb (b1 && b2);
+printb (not b2);
+return 0;

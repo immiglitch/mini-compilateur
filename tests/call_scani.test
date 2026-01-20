@@ -1,0 +1,6 @@
+// Call scani
+var n = scani;
+var res = n + 0;
+
+printi(res);
+return res;

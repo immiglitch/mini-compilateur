@@ -1,0 +1,3 @@
+// test int + bool doit renvoyer error
+printi(1 + true);
+return 0;

@@ -1,0 +1,5 @@
+// Test d'affichage de texte
+var message = "Hello World";
+print_string(message);
+print_string("\nTest reussi");
+return 0;

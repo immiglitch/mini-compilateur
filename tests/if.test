@@ -1,0 +1,19 @@
+// if simple test1 doit renvoyer 10
+//var x = 2;
+//if x < 3 {
+//  printi(10);
+//  return 0;
+//} else {
+//  printi(20);
+//  return 0;
+//}
+
+// if simple test2 doit afficher 20
+var x = 5;
+if x < 3 {
+  printi(10);
+  return 0;
+} else {
+  printi(20);
+  return 0;
+}

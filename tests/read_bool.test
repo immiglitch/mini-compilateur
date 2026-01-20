@@ -1,0 +1,5 @@
+print_string("donne 0 ou 1: ");
+var b = getb;
+print_string("valeur: ");
+printb(b);
+return 0;

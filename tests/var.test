@@ -1,0 +1,9 @@
+//test1 doit renvoyer 5
+//var x = 3;
+//printi (x + 2);
+//return 0;
+
+//test2 doit renvoyer 10
+var y = 4;
+printi (y * 2 + 2);
+return 0;

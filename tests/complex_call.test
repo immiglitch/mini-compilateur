@@ -1,0 +1,12 @@
+// Test combiné: Call + Logic + Cond
+var x = scani;
+
+// Utilise "not" et une comparaison pour vérifier si x n'est pas nul
+if (not (x == 0)) {
+    print_string("Valeur non nulle : ");
+    printi(x);
+} else {
+    print_string("La valeur est zero");
+}
+
+return 0;

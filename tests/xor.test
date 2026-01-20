@@ -1,0 +1,6 @@
+var a = true;
+var b = false;
+printb (a xor b); // true
+printb (a xor a); // false
+printb (b xor b); // false
+return 0;

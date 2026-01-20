@@ -1,0 +1,7 @@
+// boucle simple doit afficher 5
+var x = 0;
+while x < 5 {
+  x = x + 1;
+}
+printi x;
+return 0;

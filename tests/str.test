@@ -1,0 +1,28 @@
+// string + print
+//print_string("salut");
+//return 0;
+
+// test2 doit renvoyer "AB"
+
+//print_string("A");
+//print_string("B");
+//return 0;
+
+// test3 doit renvoyer ""
+
+//print_string("");
+//return 0;
+
+// test4 doit renvoyer "hello world" 
+//print_string("hello world");
+//return 0;
+
+// test5 doit renvoyer "TEST"
+//print_string("TEST");
+//return 0;
+
+// test6 doit renvoyer "ok"
+
+var s = "Bonjour Paris 8";
+print_string(s);
+return 0;

@@ -1,0 +1,7 @@
+// test and
+
+var a = true;
+var b = false;
+
+printb(a && b);
+return 0;

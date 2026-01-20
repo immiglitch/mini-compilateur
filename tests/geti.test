@@ -1,0 +1,4 @@
+//scani test
+var saisie = scani;
+printi (saisie + 10);
+return saisie;

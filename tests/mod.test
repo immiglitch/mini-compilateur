@@ -1,0 +1,2 @@
+printi(10 mod 4);
+return 0;
